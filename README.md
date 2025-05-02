@@ -1,4 +1,4 @@
-# Simple script to control quaduped spider
+# Simple script to control quadruped spider
 
 This script sends the topic "/robot_arm" with the type "trajectory_msgs/JointTrajectoryPoint" to control joints.
 Beware the order of joints: [FrontRightHip, FrontRightKnee, FrontLeftHip, FrontLeftKnee, BackLeftHip, BackLeftKnee, BackRightHip, BackRightKnee]
