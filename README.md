@@ -11,6 +11,12 @@
    ```bash
    pip install -r .\requirements.txt
    ```
+
+**Install Dependencies(Mac):**
+   ```bash
+   pip install -r ./requirements.txt
+   ```
+
 ## Usage
 
 **Run ROSBridge Server:**
@@ -22,4 +28,9 @@
 **Start the Application:**
    ```bash
    python spider_walk.py
+   ```
+
+**Start the Application(Mac):**
+   ```bash
+   python spider_walk_Mac.py
    ```
